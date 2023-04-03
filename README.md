@@ -1,6 +1,6 @@
 # DAA_CIA2
 
-## This repository contains implementation of the following algorithms: ##
+## This repository contains the implementation of the following algorithms in Python ##
 
 * Genetic Algorithm for Travelling Salesman Problem
 * Genetic Algorithm for Sine Wave
